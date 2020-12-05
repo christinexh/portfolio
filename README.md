@@ -1,6 +1,7 @@
 Agency Jekyll theme
 ====================
 
+Full Credits go to: [y7kim](https://github.com/y7kim/agency-jekyll-theme). This theme is used for my personal portfolio.
 Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
 # How to use
