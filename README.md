@@ -30,5 +30,13 @@ Images are in '/img/team/'
 
 View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
 
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
 =========
 For more details, read [documentation](http://jekyllrb.com/)
